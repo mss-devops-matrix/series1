@@ -1,1 +1,18 @@
 locators test file
+
+modified the file for the second round of commiting the file to the rempote repo
+
+the file which is modified will be in working area need to push to staging and 
+then to the remote area 
+
+
+with single command can commit the code 
+command---- git commit -a -m "updated locaters.txt file"
+
+-a is the add to the staging area (only for existing files)
+-m is the message 
+
+working on the upding files and which are already pushed to remote
+
+
+

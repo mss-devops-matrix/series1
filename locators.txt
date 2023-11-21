@@ -14,5 +14,13 @@ command---- git commit -a -m "updated locaters.txt file"
 
 working on the upding files and which are already pushed to remote
 
+for the git fetch command 
+used to get the updated repo from the remote repo to local copy and then to the working copy 
+
+git pull = git fetch + git merge 
+git pull command
+
+
+
 
 

@@ -20,6 +20,7 @@ used to get the updated repo from the remote repo to local copy and then to the 
 git pull = git fetch + git merge 
 git pull command
 
+new push for the gthub webhook interation and configured 
 
 
 
